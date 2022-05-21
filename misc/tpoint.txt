@@ -1,0 +1,41 @@
+title :	first title on the beep and boob_1
+author: first author in the world_1
+publsh:	Mc sy publishe world wide_1
+price : 1000
+copies: 100020
+
+title :	first title on the beep and boob_2
+author: first author in the world_2
+publsh:	Mc sy publishe world wide_2
+price : 2000
+copies: 200020
+
+title :	first title on the beep and boob_3
+author: first author in the world_3
+publsh:	Mc sy publishe world wide_3
+price : 3000
+copies: 300020
+
+title :	first title on the beep and boob_4
+author: first author in the world_4
+publsh:	Mc sy publishe world wide_4
+price : 4000
+copies: 400020
+
+title :	first title on the beep and boob_5
+author: first author in the world_5
+publsh:	Mc sy publishe world wide_5
+price : 5000
+copies: 500020
+
+title :	first title on the beep and boob_6
+author: first author in the world_6
+publsh:	Mc sy publishe world wide_6
+price : 6000
+copies: 600020
+
+title :	first title on the beep and boob_7
+author: first author in the world_/
+publsh:	Mc sy publishe world wide_7
+price : 7000
+copies: 700020
